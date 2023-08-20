@@ -1,0 +1,9 @@
+{
+    "ABAIXO DO PESO":"yellow",
+    "PESO NORMAL":"green",
+    "SOBREPESO":"yellow",
+    "OBESIDADE":"red",
+    "OBESIDADE GRAU 1":"red",
+    "OBESIDADE GRAU 2":"red",
+    "OBESIDADE GRAU 3":"red"
+}
